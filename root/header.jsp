@@ -83,7 +83,7 @@
 	PreparedStatement stmt = null;
 	ResultSet rs = null;
 	try {
-		// Get hold of the JDBC driver
+		// Get hold of the JDBC driver thi sis a test comment
 		Class.forName("org.hsqldb.jdbcDriver" );
 		// Establish a connection to an in memory db
 		c = DriverManager.getConnection("jdbc:hsqldb:mem:SQL", "sa", "");
