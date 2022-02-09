@@ -30,7 +30,7 @@ The Bodge It Store include the following significant vulnerabilities:
 * Insecure Object References
 * Application logic vulnerabilities If you spot any others then let me know ;)
 
-There is also a 'scoring' page (linked from the 'About Us' page) where you can see various hacking challenges and whether you have completed them or not.
+There is also a 'scoring' page (linked from the 'About Us' page) where you can see various hackmmmming challenges and whether you have completed them or not.
 
 In the relatively near future I'm hoping to add things like:
 * Ajax requests
